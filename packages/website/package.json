@@ -18,7 +18,6 @@
   "homepage": "https://github.com/josudoey/webtool-template#readme",
   "devDependencies": {
     "@ckeditor/ckeditor5-build-classic": "^38.0.1",
-    "@ckeditor/ckeditor5-upload": "^38.0.1",
     "@vue/compat": "^3.2.45",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6",
